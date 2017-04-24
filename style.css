@@ -1,0 +1,105 @@
+body {
+height: 100%;
+background-color: #0033ff;
+}
+#bodyCenter {
+      text-align: center;
+}
+nav {
+    padding: 0;
+    margin: 2px;
+    overflow: hidden;
+    background-color: blue;
+    color: white; 
+}
+#projLink {
+  color: blue;
+  text-decoration: underline;
+}
+a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid white;
+    font-family: sans-serif;
+}
+
+a:hover {
+    background-color: white;
+    color: blue;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Arial sans-serif;
+    font-style: italic;
+}
+
+#image {
+    display: inline;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+p {
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    font-family: Arial sans-serif;
+}
+
+
+footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+form {
+    border: 5px solid black;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+    font-family: Arial sans-serif;
+}
+
+div {
+    padding-bottom: 5px;
+
+}
+
+table {
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table a {
+    border: 2px solid black;
+    background-color: sienna;
+}
+
+#mail {
+    border: 2px solid black;
+    margin-top: 15%;
+    background-color: green;
+
+}
+
+.footerClass {
+    margin-top: 35%;
+}
+
+ul {
+    font-family: Arial sans-serif;
+}
+
+li {
+    font-family: Arial sans-serif;
+}
